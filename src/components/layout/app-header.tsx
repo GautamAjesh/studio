@@ -2,7 +2,7 @@ import Link from 'next/link';
 import { Logo } from '@/components/logo';
 import { Button } from '@/components/ui/button';
 import { Sheet, SheetContent, SheetTrigger } from '@/components/ui/sheet';
-import { Menu } from 'lucide-react';
+import { Menu as MenuIcon } from 'lucide-react'; // Renamed to avoid conflict if Menu component is used
 
 const navLinks = [
   { href: "/services", label: "Services" },
@@ -31,7 +31,7 @@ export function AppHeader() {
           <Sheet>
             <SheetTrigger asChild>
               <Button variant="outline" size="icon">
-                <Menu className="h-6 w-6" />
+                <MenuIcon className="h-6 w-6" />
                 <span className="sr-only">Toggle navigation menu</span>
               </Button>
             </SheetTrigger>
