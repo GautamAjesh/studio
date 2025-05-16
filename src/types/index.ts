@@ -1,3 +1,4 @@
+
 import type { LucideIcon } from 'lucide-react';
 
 export interface Service {
@@ -13,6 +14,5 @@ export interface Testimonial {
   name: string;
   company?: string;
   quote: string;
-  avatarUrl: string;
-  avatarAiHint: string;
+  // avatarUrl and avatarAiHint are no longer needed as images are removed
 }

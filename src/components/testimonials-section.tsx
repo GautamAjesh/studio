@@ -1,3 +1,4 @@
+
 import type { Testimonial } from '@/types';
 import { TestimonialCard } from './testimonial-card';
 
@@ -7,24 +8,24 @@ const testimonialsData: Testimonial[] = [
     name: 'Jane Doe',
     company: 'Tech Solutions Inc.',
     quote: 'Codeshift IT Navigator transformed our online presence with their exceptional web development and SEO services. Highly recommended!',
-    avatarUrl: 'https://placehold.co/80x80.png',
-    avatarAiHint: 'woman portrait professional'
+    avatarUrl: '', // Removed, not used anymore
+    avatarAiHint: '' // Removed, not used anymore
   },
   {
     id: '2',
     name: 'John Smith',
     company: 'Innovate Startups',
     quote: 'The app development team was fantastic. They delivered a high-quality Flutter app on time and within budget. Their UI/UX insights were invaluable.',
-    avatarUrl: 'https://placehold.co/80x80.png',
-    avatarAiHint: 'man portrait corporate'
+    avatarUrl: '', // Removed, not used anymore
+    avatarAiHint: '' // Removed, not used anymore
   },
   {
     id: '3',
     name: 'Alice Brown',
     company: 'SecureNet LLC',
     quote: 'Their cybersecurity expertise gave us peace of mind. The team was professional, knowledgeable, and proactive. A great partner for any business.',
-    avatarUrl: 'https://placehold.co/80x80.png',
-    avatarAiHint: 'person portrait business'
+    avatarUrl: '', // Removed, not used anymore
+    avatarAiHint: '' // Removed, not used anymore
   },
 ];
 
