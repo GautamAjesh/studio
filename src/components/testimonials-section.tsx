@@ -5,27 +5,21 @@ import { TestimonialCard } from './testimonial-card';
 const testimonialsData: Testimonial[] = [
   {
     id: '1',
-    name: 'Jane Doe',
+    name: 'Priya Sharma',
     company: 'Tech Solutions Inc.',
     quote: 'Codeshift IT Navigator transformed our online presence with their exceptional web development and SEO services. Highly recommended!',
-    avatarUrl: '', // Removed, not used anymore
-    avatarAiHint: '' // Removed, not used anymore
   },
   {
     id: '2',
-    name: 'John Smith',
+    name: 'Rohan Patel',
     company: 'Innovate Startups',
     quote: 'The app development team was fantastic. They delivered a high-quality Flutter app on time and within budget. Their UI/UX insights were invaluable.',
-    avatarUrl: '', // Removed, not used anymore
-    avatarAiHint: '' // Removed, not used anymore
   },
   {
     id: '3',
-    name: 'Alice Brown',
+    name: 'Aisha Khan',
     company: 'SecureNet LLC',
     quote: 'Their cybersecurity expertise gave us peace of mind. The team was professional, knowledgeable, and proactive. A great partner for any business.',
-    avatarUrl: '', // Removed, not used anymore
-    avatarAiHint: '' // Removed, not used anymore
   },
 ];
 
@@ -48,3 +42,4 @@ export function TestimonialsSection() {
     </section>
   );
 }
+
