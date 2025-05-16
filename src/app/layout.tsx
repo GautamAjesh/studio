@@ -13,7 +13,7 @@ const geistSans = Geist({
 // Removed geistMono as it's not specified in the request, simplifying font setup.
 
 export const metadata: Metadata = {
-  title: 'Codeshift IT Navigator - Your IT Solutions Partner',
+  title: 'Codeshift IT  Solutions - Your IT Solutions Partner',
   description: 'Expert IT services including web & app development, SEO, cybersecurity, and UI/UX design.',
 };
 

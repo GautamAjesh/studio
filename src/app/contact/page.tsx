@@ -2,8 +2,8 @@ import { ContactForm } from '@/components/contact-form';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Contact Us - Codeshift IT Navigator',
-  description: 'Get in touch with Codeshift IT Navigator. We\'d love to hear about your project or answer any questions.',
+  title: 'Contact Us - Codeshift IT  Solutions',
+  description: 'Get in touch with Codeshift IT  Solutions. We\'d love to hear about your project or answer any questions.',
 };
 
 export default function ContactPage() {

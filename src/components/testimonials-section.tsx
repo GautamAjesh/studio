@@ -7,7 +7,7 @@ const testimonialsData: Testimonial[] = [
     id: '1',
     name: 'Priya Sharma',
     company: 'Tech Solutions Inc.',
-    quote: 'Codeshift IT Navigator transformed our online presence with their exceptional web development and SEO services. Highly recommended!',
+    quote: 'Codeshift IT  Solutions transformed our online presence with their exceptional web development and SEO services. Highly recommended!',
   },
   {
     id: '2',

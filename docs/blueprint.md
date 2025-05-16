@@ -1,4 +1,4 @@
-# **App Name**: Codeshift IT Navigator
+# **App Name**: Codeshift IT  Solutions
 
 ## Core Features:
 

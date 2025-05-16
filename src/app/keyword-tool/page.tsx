@@ -2,7 +2,7 @@ import { KeywordExtractor } from '@/components/keyword-extractor';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Keyword Extractor Tool - Codeshift IT Navigator',
+  title: 'Keyword Extractor Tool - Codeshift IT  Solutions',
   description: 'Use our Smart Keyword Extractor to discover relevant keywords for your content, SEO, and proposals.',
 };
 
