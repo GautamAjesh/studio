@@ -7,7 +7,7 @@ export function HeroSection() {
     <section className="py-20 md:py-28 lg:py-36 bg-secondary/30">
       <div className="container mx-auto px-4 md:px-6">
         <div className="max-w-3xl mx-auto text-center space-y-6">
-          <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-primary">
+          <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-[#436879]">
             Navigate Your Digital Future with Codeshift
           </h1>
           <p className="text-lg md:text-xl text-foreground/80">
